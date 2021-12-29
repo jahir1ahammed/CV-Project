@@ -1,0 +1,191 @@
+*{
+
+margin:0px;
+padding:0px;
+
+}
+
+
+body{
+
+  background-color: gray;
+  font-family: 'Pushster', cursive;
+font-family: 'Roboto', sans-serif;
+
+}
+
+.container{
+
+background-color: rgb(235, 188, 134);
+max-width: 1000px;
+margin: 0 auto;
+padding: 20px;
+
+}
+
+.profile{
+
+height: 100px ;
+width: 120px;
+border: 3px solid rgb(0, 0, 0);
+border-radius: 50%;
+float: left;
+}
+
+h1,h2,h3,h4{
+color: rgb(252, 81, 81);
+
+
+
+}
+.head-bio{
+
+float: left;
+padding: 20px;
+
+}
+
+.para{
+
+float: right;
+padding: 20px;
+
+}
+
+.para p a{
+
+text-decoration: none;
+color:rgb81(252, 81, ) ;
+font-weight: bold;
+}
+
+.para p a:hover{
+
+  color:rgba(27, 26, 26, 0.733);
+  text-decoration: underline;
+
+}
+
+.divclear{
+
+clear: both;
+
+}
+
+hr{
+
+border: solid black 3px;
+margin: 20px auto;
+width: 100%;
+
+border-bottom: none;
+
+}
+
+/*  header end */
+
+  
+.right-div {
+  
+float: right;
+
+
+
+
+}
+
+.left-div{
+
+
+float: left;
+
+
+
+}
+
+p{
+
+color: red;
+font-weight: bold;
+}
+
+.dc{
+
+  clear: both;
+}
+
+
+/*personal information end*/
+
+
+.left-div2{
+
+border-top: 10px;
+
+}
+
+
+.right-div2{
+
+
+
+float: right;
+
+}
+
+
+.dc2{
+
+
+  clear: both;
+}
+
+
+/*Work experience end*/
+
+/* Education qualification start*/
+
+.div-right3{
+
+
+float: right;
+
+}
+
+.dc3{
+
+
+  clear: both;
+}
+
+
+/*footer strat*/
+
+
+.div4{
+
+background-color: black;
+height: 120px;
+width: auto;
+
+
+}
+
+footer{
+
+background-color: black;
+text-align: center;
+padding: 10px;
+ height: 80px;
+
+
+}
+
+footer a{
+
+  text-decoration: none;
+
+  color: white;
+  margin: 20px;
+}
+
